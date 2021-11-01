@@ -1,6 +1,7 @@
 //2021-11-1 Yue H
 //Bus handshake
 
+`timescale 1ns/10ps
 module handshake(
 input                       clk,             
 input                       rstn, 
